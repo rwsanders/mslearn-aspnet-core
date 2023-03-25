@@ -1,6 +1,6 @@
 #!/bin/bash
 # Change this for a different VM size
-vmSize=Standard_D2_v5
+vmSize=Standard_B2ms
 
 # Color theming
 . <(cat ../../../../infrastructure/scripts/theme.sh)
